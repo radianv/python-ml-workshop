@@ -7,7 +7,7 @@ Repository for python and machine learning fundation.
 - [Python Workshop on AWS](https://learn-to-code.workshop.aws)
 
 
-1. 
+1. Python workshop
 
 ### Lambda Layer packages
 
